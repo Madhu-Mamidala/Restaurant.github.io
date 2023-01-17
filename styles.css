@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box; 
 } 
+body{
+   font-family:sans-serif;
+}
 .hero-img{
     background-image: url('https://img.freepik.com/free-photo/vintage-old-rustic-cutlery-dark_1220-4886.jpg?w=740&t=st=1673880684~exp=1673881284~hmac=90fda2f4abcf7d02ad502c1297f552783e8b2c5ec882dbcd491e46c751c80a31');
     height: 100vh;
